@@ -1,26 +1,25 @@
 # 👤 Sandrin DOSSOU
 
-## 💼 Développeur Web FullStack & SEO.
-### 🤖 Passionné d'Intelligence Artificielle & Blockchain
+## 💼 FullStack Developer & SEO.
+### 🤖 Passionate about Artificial Intelligence, Data Science & Blockchain
 
 ---
 
-## 👨‍🦱 Qui suis-je ? 
-Développeur Web fullstack & SEO – spécialiste en React, Django, Laravel, Python, PHP, je vous aide à optimiser votre présence en ligne avec des solutions performantes et sur mesure.
-
+## 👨‍🦱 Who am I ?
+Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, Python, PHP, I help you optimize your online presence with high-performance and tailor-made solutions.
 
 
 ---
 
-## 📍 Informations de contact  
-- 📌 **Localisation** : Abomey-Calavi, Bénin  
-- 📞 **Téléphone** : (+229) 01 95 46 47 46
+## 📍 Contact information
+- 📌 **Location** : Abomey-Calavi, Bénin  
+- 📞 **Phone** : (+229) 01 95 46 47 46
 - 📧 **Email** : [contact@sandrindossou.com](mailto:contact@sandrindossou.com)  
-- 🌐 **Site Web** : [sandrindossou.com](https://www.sandrindossou.com/)  
+- 🌐 **Website** : [sandrindossou.com](https://www.sandrindossou.com/)  
 
 ---
 
-## 🌐 Réseaux sociaux  
+## 🌐 Social networks
 [![Facebook](https://img.shields.io/badge/Facebook-Sandrin_DOSSOU-blue?logo=facebook&logoColor=white)](https://web.facebook.com/sandrin.dossou.1/)
 [![Instagram](https://img.shields.io/badge/Instagram-sandrindossou12-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sandrindossou12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandrin_DOSSOU-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dossousandrin/)
@@ -31,9 +30,9 @@ Développeur Web fullstack & SEO – spécialiste en React, Django, Laravel, Pyt
 
 ---
 
-## 💻 Stack Technique  
+## 💻 Technical Stack 
 
-### Langages de programmation
+### Programming languages
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -48,7 +47,7 @@ Développeur Web fullstack & SEO – spécialiste en React, Django, Laravel, Pyt
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Bases de données
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -74,14 +73,14 @@ Développeur Web fullstack & SEO – spécialiste en React, Django, Laravel, Pyt
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### Systèmes d'exploitation
+### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
-### Outils
+### Tools
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
@@ -109,17 +108,17 @@ Développeur Web fullstack & SEO – spécialiste en React, Django, Laravel, Pyt
 ---
 
 
-## 📜 Citation Inspirante
+## 📜 Inspirational Quote
 
-> *"Le travail acharné et la discipline transforment les efforts en résultats."*
+> *"Hard work and discipline transform efforts into results."*
 
 ---
 
 <div align="center">
 
-[![Visitez mon site](https://img.shields.io/badge/🌐_Visitez_mon_site-sandrindossou.com-blue?style=for-the-badge)](https://www.sandrindossou.com/)
-[![Contactez-moi](https://img.shields.io/badge/📧_Contactez--moi-Email-D44638?style=for-the-badge)](mailto:contact@sandrindossou.com)
+[![Visit my website](https://img.shields.io/badge/🌐_Visitez_mon_site-sandrindossou.com-blue?style=for-the-badge)](https://www.sandrindossou.com/)
+[![Contact me](https://img.shields.io/badge/📧_Contactez--moi-Email-D44638?style=for-the-badge)](mailto:contact@sandrindossou.com)
 
 </div>
 
-*Dernière mise à jour: Juillet 2025*
+*Last updated: July 2025*
