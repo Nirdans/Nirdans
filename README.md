@@ -26,7 +26,7 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/22995464746)
 [![X](https://img.shields.io/badge/X-DossouSandrin-black?logo=x&logoColor=white)](https://x.com/DossouSandrin)
 [![GitHub](https://img.shields.io/badge/GitHub-Nirdans-black?logo=github&logoColor=white)](https://github.com/Nirdans)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visite-4DB6AC?logo=web&logoColor=white)](https://www.sandrindossou.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4DB6AC?logo=web&logoColor=white)](https://www.sandrindossou.com/)
 
 ---
 
@@ -116,8 +116,8 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 
 <div align="center">
 
-[![Visit my website](https://img.shields.io/badge/🌐_Visitez_mon_site-sandrindossou.com-blue?style=for-the-badge)](https://www.sandrindossou.com/)
-[![Contact me](https://img.shields.io/badge/📧_Contactez--moi-Email-D44638?style=for-the-badge)](mailto:contact@sandrindossou.com)
+[![Visit my website](https://img.shields.io/badge/🌐_Visit_my_website-sandrindossou.com-blue?style=for-the-badge)](https://www.sandrindossou.com/)
+[![Contact me](https://img.shields.io/badge/📧_Contact_me-Email-D44638?style=for-the-badge)](mailto:contact@sandrindossou.com)
 
 </div>
 
