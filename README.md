@@ -61,7 +61,7 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![AdonisJs](https://img.shields.io/badge/AdonisJs-FF2D20?logo=adonis&logoColor=white)
+![AdonisJs](https://img.shields.io/badge/AdonisJs-FF2D20?logo=adonisjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/API-RESTful-61DAFB?logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?logo=graphql&logoColor=white)
