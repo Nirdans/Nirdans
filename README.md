@@ -40,6 +40,8 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-007FFF?logo=javascript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-363636?logo=typescript&logoColor=white)
+
 
 
 ### Frontend
@@ -52,12 +54,14 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-003B57?logo=redis&logoColor=white)
 
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![AdonisJs](https://img.shields.io/badge/AdonisJs-FF2D20?logo=adonis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/API-RESTful-61DAFB?logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/API-GraphQL-E10098?logo=graphql&logoColor=white)
