@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍🦱 Who am I ?
-Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, Python, PHP, I help you optimize your online presence with high-performance and tailor-made solutions.
+Fullstack Developer & SEO – specializing in React, Django, FastAPI, AdonisJs, Laravel, Python, and PHP, I help you optimize your online presence with high-performance and tailor-made solutions.
 
 
 ---
@@ -103,6 +103,7 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, Laravel, P
 ![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=F06A6A)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?logo=prettier&logoColor=black)
+![Prisma](https://img.shields.io/badge/prisma-%23F7B93E.svg?logo=prisma&logoColor=black)
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
