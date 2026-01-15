@@ -102,8 +102,8 @@ Fullstack Developer & SEO – specializing in React, Django, FastAPI, AdonisJs, 
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=F06A6A)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?logo=prettier&logoColor=black)
-![Prisma](https://img.shields.io/badge/prisma-%23F7B93E.svg?logo=prisma&logoColor=black)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?logo=prettier&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-%23F7B93E.svg?logo=prisma&logoColor=black)
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
